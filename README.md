@@ -1,6 +1,7 @@
 # Ubuntu18.04_NvidiaDriver-Cuda10.1_install
 
 ## 필요 환경
+CUDA가 지원되는 Nvidia 그래픽 카드
 Ubuntu 18.04
 
 ## 설치되는 항목
