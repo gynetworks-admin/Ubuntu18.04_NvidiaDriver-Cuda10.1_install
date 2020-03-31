@@ -9,7 +9,7 @@ Nvidia Driver\
 CUDA 10.1
 
 ## 설치 방법
-Ubuntu 터미널을 실행 시키고 위 shell script을 실행한다.
+Ubuntu 터미널을 실행 시키고 위 shell script를 실행한다.
 ~~~
 sudo bash Nvidia_Driver_install.sh
 ~~~
